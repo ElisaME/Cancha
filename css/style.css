@@ -1,0 +1,54 @@
+.pasto{
+	width: 1000px;
+	height: 600px;
+	background-color: #58FA58;
+	margin: auto;
+	position: static;
+}
+.lineaPrincipal{
+	width: 960px;
+	height: 560px;
+	border:1px white solid;
+	position: relative;
+	top:20px;
+	left: 20px;
+}
+.AreaChicaI{
+	width: 150px;
+	height:300px;
+	border:1px white solid;
+	position: relative;
+	top: 130px;
+}
+.AreaChicaD{
+	width: 150px;
+	height:300px;
+	border:1px white solid;
+	position: absolute;
+	top: 130px;
+	right: 0px;
+}
+.Circulo{
+	width: 300px;
+	height: 300px;
+	border-radius: 200px;
+	border:1px solid white;
+	position: absolute;
+	top: 130px;
+	left:330px;
+}
+.bola1{
+	position: absolute;
+	top: 140px;
+	left: 140px;
+}
+.bola2{
+	position: absolute;
+	top: 50px;
+	left: 490px;
+}
+.bola3{
+	position: absolute;
+	top: 400px;
+	right: 170px;
+}
